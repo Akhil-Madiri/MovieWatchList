@@ -11,7 +11,7 @@ import SwiftUI
 struct MovieWatchListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
